@@ -46,7 +46,7 @@ Proyek ini berfokus pada pengembangan sistem yang menggabungkan prediksi emosi d
 
 ## Tujuan
 
-- Mengembangkan model deteksi emosi yang akurat dan efisien menggunakan teknik deep learning.
+- Mengembangkan model prediksi emosi yang akurat dan efisien menggunakan teknik deep learning.
 - Menciptakan antarmuka pengguna yang lancar dan intuitif untuk pengalaman pengguna yang lebih baik.
 - Memberikan rekomendasi musik yang menarik dan personal berdasarkan emosi yang terdeteksi.
 - Memungkinkan pengguna untuk dengan mudah menjelajahi dan menikmati musik yang direkomendasikan.
