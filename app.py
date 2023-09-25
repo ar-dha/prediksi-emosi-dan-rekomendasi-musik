@@ -69,8 +69,5 @@ if uploaded_file is not None:
     else:
         st.write('Tidak ada rekomendasi musik untuk emosi ini.')
         
-    # Empty line
     st.markdown("<br>", unsafe_allow_html=True)
-
-    # Text with an empty line before it and center-aligned
     st.markdown("<p align='center'>Silakan klik 'R' untuk mendapatkan rekomendasi musik lainnya.</p>", unsafe_allow_html=True)
